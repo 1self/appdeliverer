@@ -1,0 +1,169 @@
+2015-04-17T11:05:06.492Z - info: starting...
+2015-04-17T11:05:06.493Z - error: Errors will be logged here
+2015-04-17T11:05:06.493Z - warn: Warns will be logged here
+2015-04-17T11:05:06.493Z - info: Info will be logged here
+2015-04-17T11:05:06.493Z - debug: Debug will be logged here
+2015-04-17T11:05:06.494Z - error: Caught exception: TypeError: Parameter 'url' must be a string, not undefined
+2015-04-17T11:05:20.271Z - info: starting...
+2015-04-17T11:05:20.273Z - error: Errors will be logged here
+2015-04-17T11:05:20.273Z - warn: Warns will be logged here
+2015-04-17T11:05:20.273Z - info: Info will be logged here
+2015-04-17T11:05:20.273Z - debug: Debug will be logged here
+2015-04-17T11:05:20.275Z - error: Caught exception: TypeError: Parameter 'url' must be a string, not undefined
+2015-04-17T11:05:49.403Z - info: starting...
+2015-04-17T11:05:49.405Z - error: Errors will be logged here
+2015-04-17T11:05:49.405Z - warn: Warns will be logged here
+2015-04-17T11:05:49.405Z - info: Info will be logged here
+2015-04-17T11:05:49.405Z - debug: Debug will be logged here
+2015-04-17T11:05:49.406Z - error: Caught exception: TypeError: Cannot call method 'parse' of undefined
+2015-04-17T11:06:20.859Z - info: starting...
+2015-04-17T11:06:20.860Z - error: Errors will be logged here
+2015-04-17T11:06:20.861Z - warn: Warns will be logged here
+2015-04-17T11:06:20.861Z - info: Info will be logged here
+2015-04-17T11:06:20.861Z - debug: Debug will be logged here
+2015-04-17T11:06:20.862Z - error: Caught exception: TypeError: Object mongodb://127.0.0.1:27017 has no method 'parse'
+2015-04-17T11:06:42.169Z - info: starting...
+2015-04-17T11:06:42.170Z - error: Errors will be logged here
+2015-04-17T11:06:42.171Z - warn: Warns will be logged here
+2015-04-17T11:06:42.171Z - info: Info will be logged here
+2015-04-17T11:06:42.171Z - debug: Debug will be logged here
+2015-04-17T11:06:42.172Z - info: using 127.0.0.1:27017
+2015-04-17T11:06:42.395Z - info: connected to db
+2015-04-17T11:07:08.762Z - info: starting...
+2015-04-17T11:07:08.763Z - error: Errors will be logged here
+2015-04-17T11:07:08.763Z - warn: Warns will be logged here
+2015-04-17T11:07:08.763Z - info: Info will be logged here
+2015-04-17T11:07:08.763Z - debug: Debug will be logged here
+2015-04-17T11:07:08.764Z - info: using 127.0.0.1:27017
+2015-04-17T11:07:08.986Z - info: connected to db
+2015-04-17T11:09:06.872Z - info: starting...
+2015-04-17T11:09:06.873Z - error: Errors will be logged here
+2015-04-17T11:09:06.873Z - warn: Warns will be logged here
+2015-04-17T11:09:06.873Z - info: Info will be logged here
+2015-04-17T11:09:06.873Z - debug: Debug will be logged here
+2015-04-17T11:09:06.874Z - info: using 127.0.0.1:27017
+2015-04-17T11:09:07.096Z - info: connected to db
+2015-04-17T11:09:33.569Z - info: starting...
+2015-04-17T11:09:33.570Z - error: Errors will be logged here
+2015-04-17T11:09:33.570Z - warn: Warns will be logged here
+2015-04-17T11:09:33.570Z - info: Info will be logged here
+2015-04-17T11:09:33.570Z - debug: Debug will be logged here
+2015-04-17T11:09:33.573Z - info: using 127.0.0.1:27017
+2015-04-17T11:09:33.796Z - info: connected to db
+2015-04-17T11:11:55.911Z - info: starting...
+2015-04-17T11:11:55.912Z - error: Errors will be logged here
+2015-04-17T11:11:55.912Z - warn: Warns will be logged here
+2015-04-17T11:11:55.912Z - info: Info will be logged here
+2015-04-17T11:11:55.912Z - debug: Debug will be logged here
+2015-04-17T11:11:55.914Z - info: using 127.0.0.1:27017
+2015-04-17T11:11:56.139Z - info: connected to db
+2015-04-17T11:11:56.144Z - info: rb 
+{ userId: 'user1',
+  streamid: 'LQCLHIMFIIESRHEI',
+  writeToken: '641fafa180a4236807bba592d5f589d25204af7d3b62',
+  events: 
+   [ { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+       location: { lat: 52.209, long: 0.148 },
+       actionTags: [ 'focus' ],
+       objectTags: [ 'computer', 'active-window' ],
+       properties: { Title: '1self - Live smarter - Google Chrome' },
+       streamid: 'DITFCLPWYKKZLVNN',
+       eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+       eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+       offset: -60 },
+     { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+       location: { lat: 52.209, long: 0.148 },
+       actionTags: [ 'focus' ],
+       objectTags: [ 'computer', 'active-window' ],
+       properties: { Title: '1self - Live smarter - Google Chrome' },
+       streamid: 'DITFCLPWYKKZLVNN',
+       eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+       eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+       offset: -60 } ] }
+2015-04-17T11:11:56.146Z - info:  
+{ method: 'post',
+  body: 
+   { userId: 'user1',
+     streamid: 'LQCLHIMFIIESRHEI',
+     writeToken: '641fafa180a4236807bba592d5f589d25204af7d3b62',
+     events: 
+      [ { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+          location: { lat: 52.209, long: 0.148 },
+          actionTags: [ 'focus' ],
+          objectTags: [ 'computer', 'active-window' ],
+          properties: { Title: '1self - Live smarter - Google Chrome' },
+          streamid: 'DITFCLPWYKKZLVNN',
+          eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+          eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+          offset: -60 },
+        { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+          location: { lat: 52.209, long: 0.148 },
+          actionTags: [ 'focus' ],
+          objectTags: [ 'computer', 'active-window' ],
+          properties: { Title: '1self - Live smarter - Google Chrome' },
+          streamid: 'DITFCLPWYKKZLVNN',
+          eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+          eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+          offset: -60 } ] },
+  json: true,
+  url: 'http://devflow.azurewebsites.net/api/events' }
+2015-04-17T11:13:02.610Z - info: starting...
+2015-04-17T11:13:02.612Z - error: Errors will be logged here
+2015-04-17T11:13:02.612Z - warn: Warns will be logged here
+2015-04-17T11:13:02.612Z - info: Info will be logged here
+2015-04-17T11:13:02.612Z - debug: Debug will be logged here
+2015-04-17T11:13:02.613Z - info: using 127.0.0.1:27017
+2015-04-17T11:13:02.834Z - info: connected to db
+2015-04-17T11:13:02.839Z - info: rb 
+{ userId: 'user1',
+  streamid: 'LQCLHIMFIIESRHEI',
+  writeToken: '641fafa180a4236807bba592d5f589d25204af7d3b62',
+  events: 
+   [ { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+       location: { lat: 52.209, long: 0.148 },
+       actionTags: [ 'focus' ],
+       objectTags: [ 'computer', 'active-window' ],
+       properties: { Title: '1self - Live smarter - Google Chrome' },
+       streamid: 'DITFCLPWYKKZLVNN',
+       eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+       eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+       offset: -60 },
+     { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+       location: { lat: 52.209, long: 0.148 },
+       actionTags: [ 'focus' ],
+       objectTags: [ 'computer', 'active-window' ],
+       properties: { Title: '1self - Live smarter - Google Chrome' },
+       streamid: 'DITFCLPWYKKZLVNN',
+       eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+       eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+       offset: -60 } ] }
+2015-04-17T11:13:51.819Z - info: starting...
+2015-04-17T11:13:51.820Z - error: Errors will be logged here
+2015-04-17T11:13:51.820Z - warn: Warns will be logged here
+2015-04-17T11:13:51.820Z - info: Info will be logged here
+2015-04-17T11:13:51.821Z - debug: Debug will be logged here
+2015-04-17T11:13:51.822Z - info: using 127.0.0.1:27017
+2015-04-17T11:13:52.044Z - info: connected to db
+2015-04-17T11:13:52.051Z - info: rb 
+{ userId: 'user1',
+  streamid: 'LQCLHIMFIIESRHEI',
+  writeToken: '641fafa180a4236807bba592d5f589d25204af7d3b62',
+  events: 
+   [ { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+       location: { lat: 52.209, long: 0.148 },
+       actionTags: [ 'focus' ],
+       objectTags: [ 'computer', 'active-window' ],
+       properties: { Title: '1self - Live smarter - Google Chrome' },
+       streamid: 'DITFCLPWYKKZLVNN',
+       eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+       eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+       offset: -60 },
+     { dateTime: '2015-04-14T09:46:41.8051444+01:00',
+       location: { lat: 52.209, long: 0.148 },
+       actionTags: [ 'focus' ],
+       objectTags: [ 'computer', 'active-window' ],
+       properties: { Title: '1self - Live smarter - Google Chrome' },
+       streamid: 'DITFCLPWYKKZLVNN',
+       eventDateTime: Tue Apr 14 2015 09:46:41 GMT+0100 (BST),
+       eventLocalDateTime: Tue Apr 14 2015 10:46:41 GMT+0100 (BST),
+       offset: -60 } ] }
